@@ -1,0 +1,9 @@
+This package is created on the purpose of academic project under the project sponsor Dr Andres Fortino.
+The author of this package is NYU SPS MASY student Guangning Wei.
+This package is only made for personal use (academic, teaching), but not for business use.
+This package is open source and available for public downloads.
+Thanks to the MTUclasssification package, this module was developed in help of their codes.
+
+
+----Guangning Wei
+----wei.guangning1997@gmail.com

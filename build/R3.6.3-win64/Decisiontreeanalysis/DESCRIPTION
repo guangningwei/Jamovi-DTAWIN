@@ -1,0 +1,13 @@
+Package: Decisiontreeanalysis
+Type: Package
+Title: DTA and RFA
+Version: 0.0.1
+Author: Guangning Wei
+Maintainer: Guangning Wei <gw881@nyu.edu>
+Description: Decision tree and random forest analysis
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: jmvcore (>= 0.4.0), R6, caret,rpart,class,
+        ggplot2,ggdendro,randomForest,rpart.plot
+Built: R 3.6.3; ; 2021-04-06 23:44:24 UTC; windows
