@@ -4,7 +4,7 @@
 Please do the following steps to make sure module works in jamovi
 
 
-Please delete the previous jamovi completely before moving on to the next steps
+Please uninstall the previous jamovi completely before moving on to the next steps
 
 1. PLease download the Jamovi 1.2.27 and you can find in this link https://www.jamovi.org/download.html
 2. Download this package (DTA)
